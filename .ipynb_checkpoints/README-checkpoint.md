@@ -18,14 +18,16 @@ Make sure the following library has been install in your working enviroment or c
 1. Load the data 
 2. Basic understanding of data 
 3. Clean up the data 
-4. Organize data 
-5. Exploratary Data Analysis(EDA)
-6. Try out model to do sentiment analysis 
-7. Fine tune the model 
-8. save the model to use it in the future
+4. Spliting Data
+5. Organize data 
+6. Classification Model
+7. Evaluation of the Models(F1_score)
+8. Fine tune the models 
 
 ### Task / Goal 
 
 The goal of this project to to able to predict positive or negative movies reviews. 
+
+
 
 
